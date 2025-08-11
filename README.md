@@ -45,11 +45,16 @@ expense_tracker/
     streamlit run app.py
 
 ## 📸 Screenshots
-Home Page
+    ### 🏠 Home Page
+![Home Page](screenshots/homepage.png)
 
-Expense Table
+### 📊 Expense Chart
+![Home page of the expense tracker app showing a form to add expenses with fields for date, category, amount, and description. A table below lists recent expenses with columns for each field. The interface is clean and organized, with a welcoming and user-friendly tone.](screenshots/homepage.png)
+
+![Bar chart visualizing expenses by category in the expense tracker app. Categories such as Food, Transport, and Entertainment are displayed on the x-axis, with corresponding expense amounts on the y-axis. The chart is colorful and easy to interpret, conveying a sense of clarity and helpfulness.](screenshots/expense_chart.png)
 
 ## Live Demo
+    https://expense-tracker-euujfqirurekvuczbstutq.streamlit.app/
 
 ## 📌 Future Enhancements
    - User Authentication
